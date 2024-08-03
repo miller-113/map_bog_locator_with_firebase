@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/map_bog_locator_with_firebase/static/css/main.004a73ac.css",
+    "main.js": "/map_bog_locator_with_firebase/static/js/main.889ed037.js",
+    "index.html": "/map_bog_locator_with_firebase/index.html",
+    "main.004a73ac.css.map": "/map_bog_locator_with_firebase/static/css/main.004a73ac.css.map",
+    "main.889ed037.js.map": "/map_bog_locator_with_firebase/static/js/main.889ed037.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.004a73ac.css",
+    "static/js/main.889ed037.js"
+  ]
+}
